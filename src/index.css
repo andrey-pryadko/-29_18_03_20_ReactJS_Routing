@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container{
+  max-width: 800px;
+  margin: 30px auto;
+}
+
+.active{
+  color: red;
+  font-weight: bold;
+}
+
+.my-active{
+  color: green;
+  font-weight: bold;
+}
